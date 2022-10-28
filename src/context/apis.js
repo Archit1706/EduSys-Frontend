@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8000/v1";
+const BASE_URL = "https://edusys-backend.netlify.app/";
 
 const signin = async (useBody) => {
   const res = await fetch(`${BASE_URL}/auth/login`, {
