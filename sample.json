@@ -1,0 +1,571 @@
+{
+    "status": "completed",
+    "batch": {
+        "isActive": 1,
+        "batchCode": "2020-2024",
+        "startYear": 2020,
+        "endYear": 2024,
+        "id": "631b8b61fe187d0ac84e2d6f"
+    },
+    "subject": {
+        "type": "Theory",
+        "year": 3,
+        "semester": 5,
+        "subjectName": "Internet Programming",
+        "subjectCode": "IP",
+        "attainment": [
+            {
+                "_id": "631cce75409ef441d8dded8e",
+                "co": "CO1",
+                "description": "lorem ipsum",
+                "data": [
+                    {
+                        "_id": "631cce75409ef441d8dded8f",
+                        "title": "PO1",
+                        "value": 3
+                    },
+                    {
+                        "_id": "631cce75409ef441d8dded90",
+                        "title": "PO2",
+                        "value": 3
+                    },
+                    {
+                        "_id": "631cce75409ef441d8dded91",
+                        "title": "PO3",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8dded92",
+                        "title": "PO4",
+                        "value": 3
+                    },
+                    {
+                        "_id": "631cce75409ef441d8dded93",
+                        "title": "PO5",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8dded94",
+                        "title": "PO6",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8dded95",
+                        "title": "PO7",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8dded96",
+                        "title": "PO8",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8dded97",
+                        "title": "PO9",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8dded98",
+                        "title": "PO10",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8dded99",
+                        "title": "PO11",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8dded9a",
+                        "title": "PO12",
+                        "value": null
+                    }
+                ]
+            },
+            {
+                "_id": "631cce75409ef441d8dded9b",
+                "co": "CO2",
+                "description": "lorem ipsum",
+                "data": [
+                    {
+                        "_id": "631cce75409ef441d8dded9c",
+                        "title": "PO1",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8dded9d",
+                        "title": "PO2",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8dded9e",
+                        "title": "PO3",
+                        "value": 3
+                    },
+                    {
+                        "_id": "631cce75409ef441d8dded9f",
+                        "title": "PO4",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddeda0",
+                        "title": "PO5",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddeda1",
+                        "title": "PO6",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddeda2",
+                        "title": "PO7",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddeda3",
+                        "title": "PO8",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddeda4",
+                        "title": "PO9",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddeda5",
+                        "title": "PO10",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddeda6",
+                        "title": "PO11",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddeda7",
+                        "title": "PO12",
+                        "value": 3
+                    }
+                ]
+            },
+            {
+                "_id": "631cce75409ef441d8ddeda8",
+                "co": "CO3",
+                "description": "lorem ipsum",
+                "data": [
+                    {
+                        "_id": "631cce75409ef441d8ddeda9",
+                        "title": "PO1",
+                        "value": 3
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedaa",
+                        "title": "PO2",
+                        "value": 3
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedab",
+                        "title": "PO3",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedac",
+                        "title": "PO4",
+                        "value": 3
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedad",
+                        "title": "PO5",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedae",
+                        "title": "PO6",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedaf",
+                        "title": "PO7",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedb0",
+                        "title": "PO8",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedb1",
+                        "title": "PO9",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedb2",
+                        "title": "PO10",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedb3",
+                        "title": "PO11",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedb4",
+                        "title": "PO12",
+                        "value": null
+                    }
+                ]
+            },
+            {
+                "_id": "631cce75409ef441d8ddedb5",
+                "co": "CO4",
+                "description": "lorem ipsum",
+                "data": [
+                    {
+                        "_id": "631cce75409ef441d8ddedb6",
+                        "title": "PO1",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedb7",
+                        "title": "PO2",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedb8",
+                        "title": "PO3",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedb9",
+                        "title": "PO4",
+                        "value": 3
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedba",
+                        "title": "PO5",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedbb",
+                        "title": "PO6",
+                        "value": 3
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedbc",
+                        "title": "PO7",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedbd",
+                        "title": "PO8",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedbe",
+                        "title": "PO9",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedbf",
+                        "title": "PO10",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedc0",
+                        "title": "PO11",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedc1",
+                        "title": "PO12",
+                        "value": 3
+                    }
+                ]
+            },
+            {
+                "_id": "631cce75409ef441d8ddedc2",
+                "co": "CO5",
+                "description": "lorem ipsum",
+                "data": [
+                    {
+                        "_id": "631cce75409ef441d8ddedc3",
+                        "title": "PO1",
+                        "value": 3
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedc4",
+                        "title": "PO2",
+                        "value": 3
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedc5",
+                        "title": "PO3",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedc6",
+                        "title": "PO4",
+                        "value": 2
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedc7",
+                        "title": "PO5",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedc8",
+                        "title": "PO6",
+                        "value": 2
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedc9",
+                        "title": "PO7",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedca",
+                        "title": "PO8",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedcb",
+                        "title": "PO9",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedcc",
+                        "title": "PO10",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedcd",
+                        "title": "PO11",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedce",
+                        "title": "PO12",
+                        "value": 3
+                    }
+                ]
+            },
+            {
+                "_id": "631cce75409ef441d8ddedcf",
+                "co": "CO6",
+                "description": "lorem ipsum",
+                "data": [
+                    {
+                        "_id": "631cce75409ef441d8ddedd0",
+                        "title": "PO1",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedd1",
+                        "title": "PO2",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedd2",
+                        "title": "PO3",
+                        "value": 3
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedd3",
+                        "title": "PO4",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedd4",
+                        "title": "PO5",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedd5",
+                        "title": "PO6",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedd6",
+                        "title": "PO7",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedd7",
+                        "title": "PO8",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedd8",
+                        "title": "PO9",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedd9",
+                        "title": "PO10",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddedda",
+                        "title": "PO11",
+                        "value": null
+                    },
+                    {
+                        "_id": "631cce75409ef441d8ddeddb",
+                        "title": "PO12",
+                        "value": 3
+                    }
+                ]
+            }
+        ],
+        "id": "631b94291f9d90180822f041"
+    },
+    "teacher": {
+        "role": "user",
+        "isEmailVerified": false,
+        "isActive": 1,
+        "subjects": [
+            "Internet Programming",
+            "ADSA"
+        ],
+        "name": "Omkar Bhostekar",
+        "email": "otbhostekar@gmail.com",
+        "id": "631cd162888aad2854c8e08f"
+    },
+    "output": [
+        {
+            "_id": "63567cba631aff3c4c5acb6f",
+            "title": "PO1",
+            "uni": 2,
+            "pt": 1.67,
+            "direct": 1.93,
+            "indirect": 2.23,
+            "final": 1.99
+        },
+        {
+            "_id": "63567cba631aff3c4c5acb70",
+            "title": "PO2",
+            "uni": 2,
+            "pt": 1.67,
+            "direct": 1.93,
+            "indirect": 2.23,
+            "final": 1.99
+        },
+        {
+            "_id": "63567cba631aff3c4c5acb71",
+            "title": "PO3",
+            "uni": 2,
+            "pt": 2.5,
+            "direct": 2.1,
+            "indirect": 1.9,
+            "final": 2.06
+        },
+        {
+            "_id": "63567cba631aff3c4c5acb72",
+            "title": "PO4",
+            "uni": 1.83,
+            "pt": 1.67,
+            "direct": 1.8,
+            "indirect": 2.03,
+            "final": 1.85
+        },
+        {
+            "_id": "63567cba631aff3c4c5acb73",
+            "title": "PO5",
+            "uni": 0,
+            "pt": 0,
+            "direct": 0,
+            "indirect": 0,
+            "final": 0
+        },
+        {
+            "_id": "63567cba631aff3c4c5acb74",
+            "title": "PO6",
+            "uni": 1.67,
+            "pt": 1.33,
+            "direct": 1.6,
+            "indirect": 1.87,
+            "final": 1.65
+        },
+        {
+            "_id": "63567cba631aff3c4c5acb75",
+            "title": "PO7",
+            "uni": 0,
+            "pt": 0,
+            "direct": 0,
+            "indirect": 0,
+            "final": 0
+        },
+        {
+            "_id": "63567cba631aff3c4c5acb76",
+            "title": "PO8",
+            "uni": 0,
+            "pt": 0,
+            "direct": 0,
+            "indirect": 0,
+            "final": 0
+        },
+        {
+            "_id": "63567cba631aff3c4c5acb77",
+            "title": "PO9",
+            "uni": 0,
+            "pt": 0,
+            "direct": 0,
+            "indirect": 0,
+            "final": 0
+        },
+        {
+            "_id": "63567cba631aff3c4c5acb78",
+            "title": "PO10",
+            "uni": 0,
+            "pt": 0,
+            "direct": 0,
+            "indirect": 0,
+            "final": 0
+        },
+        {
+            "_id": "63567cba631aff3c4c5acb79",
+            "title": "PO11",
+            "uni": 0,
+            "pt": 0,
+            "direct": 0,
+            "indirect": 0,
+            "final": 0
+        },
+        {
+            "_id": "63567cba631aff3c4c5acb7a",
+            "title": "PO12",
+            "uni": 2,
+            "pt": 2,
+            "direct": 2,
+            "indirect": 2.08,
+            "final": 2.02
+        }
+    ],
+    "input": {
+        "uni": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            2
+        ],
+        "pt": [
+            3,
+            2,
+            1,
+            2,
+            1,
+            3
+        ],
+        "indirect": [
+            2.3,
+            2.3,
+            2.1,
+            2.2,
+            2.3,
+            1.5
+        ]
+    },
+    "id": "63396dab1da80613e8bca0fe"
+}
