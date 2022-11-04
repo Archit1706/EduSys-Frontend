@@ -164,7 +164,7 @@ const getSubjectById = async (token, id) => {
   };
 };
 
-module.exports = {
+export {
   signin,
   getTeacherSubject,
   calculateGradeApiCall,
