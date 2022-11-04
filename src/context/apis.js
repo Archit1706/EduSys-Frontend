@@ -1,4 +1,4 @@
-const BASE_URL = "https://edusys-backend.netlify.app/";
+const BASE_URL = "https://teacher-dashboard.azurewebsites.net/v1";
 
 const signin = async (useBody) => {
   const res = await fetch(`${BASE_URL}/auth/login`, {
