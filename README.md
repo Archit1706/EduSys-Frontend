@@ -56,6 +56,9 @@
 ### Admin Dashboard - Teachers
 <img src="./Edusys/Teachers.png" alt="/">
 
+### Admin Dashboard - Settings
+<img src="./Edusys/Settings.png" alt="/">
+
 ### Teacher Dashboard - Home
 <img src="./Edusys/Teacher Dashboard.png" alt="/">
 
