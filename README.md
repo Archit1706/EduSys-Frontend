@@ -32,5 +32,16 @@
 1. Frontend - Netlify
 2. Backend - Microsoft Azure
 
+## Sample Screenshots
+
+### Landing Pages
+<img src="./Edusys/Landing Page.png" alt="1">
+<img src="./Edusys/Landing Page(2).png" alt="1">
+
+### Login Page
+<img src="./Edusys/Landing Page.png" alt="1">
+
+### Signup Page
+<img src="./Edusys/Landing Page.png" alt="1">
 
 [Edusys Backend](https://github.com/Archit1706/EduSys-Backend)
