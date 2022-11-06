@@ -26,3 +26,11 @@
 4. All calculations performed using the latest Rubrics provided by Mumbai University(MU).
 5. System generates overall mapping of all subjects batchwise.
 6. Secure Login and Signup pages and Database Connectivity.
+
+## Deployment
+
+1. Frontend - Netlify
+2. Backend - Microsoft Azure
+
+
+[Edusys Backend](https://github.com/Archit1706/EduSys-Backend)
