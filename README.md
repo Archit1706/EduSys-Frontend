@@ -35,13 +35,36 @@
 ## Sample Screenshots
 
 ### Landing Pages
-<img src="./Edusys/Landing Page.png" alt="1">
-<img src="./Edusys/Landing Page(2).png" alt="1">
+<img src="./Edusys/Landing Page.png" alt="/">
+<img src="./Edusys/Landing Page(2).png" alt="/">
 
 ### Login Page
-<img src="./Edusys/Landing Page.png" alt="1">
+<img src="./Edusys/Login Page.png" alt="/">
 
 ### Signup Page
-<img src="./Edusys/Landing Page.png" alt="1">
+<img src="./Edusys/Signup Page.png" alt="/">
+
+### Admin Dashboard - Home
+<img src="./Edusys/Admin Dashboard.png" alt="/">
+
+### Admin Dashboard - Batches
+<img src="./Edusys/Batches.png" alt="/">
+
+### Admin Dashboard - Subjects
+<img src="./Edusys/Subjects.png" alt="/">
+
+### Admin Dashboard - Teachers
+<img src="./Edusys/Teachers.png" alt="/">
+
+### Teacher Dashboard - Home
+<img src="./Edusys/Teacher Dashboard.png" alt="/">
+
+### Teacher Dashboard - Subject CO-PO-PSO Calculation
+<img src="./Edusys/Calculation Page(1).png" alt="/">
+<img src="./Edusys/Calculation Page.png" alt="/">
+<img src="./Edusys/Calculation Page(2).png" alt="/">
+
+
+
 
 [Edusys Backend](https://github.com/Archit1706/EduSys-Backend)
