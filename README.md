@@ -5,7 +5,7 @@
 ## Currently this software is being used by the Information Technology Department of Thadomal Shahani Engineeriing College[.](https://tsec.edu/), Bandra.
 
 
-### Live Demo : Click [here](https://edusys-tsec.netlify.app/)
+### Live Demo : Click [here](https://edusys-tsec.vercel.app/)
 
 ## Tech Stack Used
 
